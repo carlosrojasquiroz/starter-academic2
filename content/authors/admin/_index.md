@@ -72,6 +72,6 @@ highlight_name: false
 
 I am a first-year PhD student in the Department of Economics at the European University Institute in Florence, Italy. Before joining the EUI, I attended the Master in Economic Analysis at Universidad Carlos III de Madrid. 
 
-I also have professional experience working in Peruvian public institutions like the Ministry of Finance, the National Council of Science, and the Fiscal Council.
+I also have professional experience in Peruvian public institutions like the Ministry of Finance, the National Council of Science, and the Fiscal Council.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_CRQ_2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_CRQ_2021.pdf" "newtab" >}}CV{{< /staticref >}}.
