@@ -70,6 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a first-year PhD student in the Department of Economics at the European University Institute. Before joining the EUI, I attended the Master in Economic Analysis at Universidad Carlos III de Madrid. 
+I am a first-year PhD student in the Department of Economics at the European University Institute in Florence, Italy. Before joining the EUI, I attended the Master in Economic Analysis at Universidad Carlos III de Madrid. 
+
+I also have professional experience working in Peruvian public institutions like the Ministry of Finance, the National Council of Science, and the Fiscal Council.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
