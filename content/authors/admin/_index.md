@@ -74,4 +74,4 @@ I am a first-year PhD student in the Department of Economics at the European Uni
 
 I also have professional experience working in Peruvian public institutions like the Ministry of Finance, the National Council of Science, and the Fiscal Council.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_CRQ_2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
