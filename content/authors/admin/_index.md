@@ -18,7 +18,7 @@ bio: My research interests include firm dynamics, sovereign debt and DSGE models
 
 # Interests to show in About widget
 interests:
-- Sovereign debt
+- Sovereign default
 - Firm dynamics
 - DSGE models
 
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:carlosrojasquiroz@gmail.com
+  link: mailto:carlos.rojasquiroz@eui.eu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/CarlosRojasQui3
